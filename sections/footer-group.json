@@ -1,0 +1,54 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "f1609f69-7930-42a4-bba5-b741e9cb149f": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Navigation",
+            "menu": "main-menu"
+          }
+        },
+        "0dc1fb09-a975-4f38-8221-19cd1db4afa9": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Info",
+            "menu": "footer"
+          }
+        },
+        "6090fd2f-9028-4877-a741-464e3da80484": {
+          "type": "text",
+          "settings": {
+            "heading": "UpBean Coffee",
+            "subtext": "<p>📍4194 Mapleview Drive, Tampa, Florida, 33607<\/p><p>📱 727-955-3308<\/p><p>📧 Hello@upbeancoffee.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f1609f69-7930-42a4-bba5-b741e9cb149f",
+        "0dc1fb09-a975-4f38-8221-19cd1db4afa9",
+        "6090fd2f-9028-4877-a741-464e3da80484"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": true,
+        "newsletter_heading": "For Coffee Lovers ❤️",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 36,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
