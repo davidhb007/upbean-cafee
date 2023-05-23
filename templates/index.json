@@ -182,6 +182,47 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "f10cf89c-f827-4e06-9176-b5e6fb568a57": {
+      "type": "testimonials",
+      "blocks": {
+        "template--18951228752172__f10cf89c-f827-4e06-9176-b5e6fb568a57-168373458486614456-0": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial_text": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto qui optio error, eius sapiente repudiandae delectus,fuga vel sit aliquam eveniet aliquid doloribus alias aperiam quod consequuntur, tempora ipsa obcaecati.<\/p>",
+            "name": "John Doe"
+          }
+        },
+        "template--18951228752172__f10cf89c-f827-4e06-9176-b5e6fb568a57-168373458486614456-1": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial_text": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto qui optio error, eius sapiente repudiandae delectus,fuga vel sit aliquam eveniet aliquid doloribus alias aperiam quod consequuntur, tempora ipsa obcaecati.<\/p>",
+            "name": "John Doe"
+          }
+        },
+        "template--18951228752172__f10cf89c-f827-4e06-9176-b5e6fb568a57-168373458486614456-2": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial_text": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto qui optio error, eius sapiente repudiandae delectus,fuga vel sit aliquam eveniet aliquid doloribus alias aperiam quod consequuntur, tempora ipsa obcaecati.<\/p>",
+            "name": "John Doe"
+          }
+        }
+      },
+      "block_order": [
+        "template--18951228752172__f10cf89c-f827-4e06-9176-b5e6fb568a57-168373458486614456-0",
+        "template--18951228752172__f10cf89c-f827-4e06-9176-b5e6fb568a57-168373458486614456-1",
+        "template--18951228752172__f10cf89c-f827-4e06-9176-b5e6fb568a57-168373458486614456-2"
+      ],
+      "settings": {
+        "heading": "What Our Clients Say",
+        "heading_size": "h1",
+        "show_quote_icon": true,
+        "autoplay": true,
+        "autoplay-speed": 5,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -190,6 +231,7 @@
     "e64b5d61-d48b-44b2-9f7b-2e24c8ecebc1",
     "0b723953-4f9e-4a97-b387-72655f1c04f8",
     "6cf86867-e6ab-4f05-a99b-3ccd94d6388a",
-    "734ca88d-c308-4b2e-9779-b422d0b9be38"
+    "734ca88d-c308-4b2e-9779-b422d0b9be38",
+    "f10cf89c-f827-4e06-9176-b5e6fb568a57"
   ]
 }
